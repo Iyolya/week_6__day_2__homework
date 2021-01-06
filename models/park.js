@@ -4,7 +4,7 @@ const Park = function (name, ticket_price) {
     this.dinosaurs = [];
   }
   
-  module.exports = Dinosaur;
+  module.exports = Park;
   
 
 
